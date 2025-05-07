@@ -1,0 +1,39 @@
+{
+    "Lactate Production": [
+        "ldh",
+        "lactate dehydrogenase"
+    ],
+    "Acetate Production": [
+        "pta",
+        "ackA",
+        "acetate kinase"
+    ],
+    "Ethanol Production": [
+        "adh",
+        "alcohol dehydrogenase"
+    ],
+    "GABA Production": [
+        "gad",
+        "glutamate decarboxylase"
+    ],
+    "Sucrose Utilization": [
+        "scrA",
+        "scrB",
+        "sucrose hydrolase"
+    ],
+    "Citrate Metabolism": [
+        "citA",
+        "citB",
+        "citrate lyase"
+    ],
+    "Dextran Synthesis": [
+        "dsr",
+        "dextransucrase"
+    ],
+    "Flavor Compounds": [
+        "alsS",
+        "acetolactate synthase",
+        "butA",
+        "butanediol dehydrogenase"
+    ]
+}
