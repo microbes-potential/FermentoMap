@@ -5,8 +5,8 @@ setup(
     name='fermentomap',
     version='0.1.0',
     description='Fermentation trait detection from microbial genomes',
-    author='Your Name',
-    author_email='your@email.com',
+    author='Adeel Farooq',
+    author_email='adeelsway@gmail.com',
     packages=find_packages(),
     install_requires=['biopython'],
     classifiers=[
