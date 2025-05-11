@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='fermentomap',
-    version='0.1.0',
+    version='0.1.1',
     description='Fermentation trait detection from microbial genomes',
     author='Adeel Farooq',
     author_email='adeelsway@gmail.com',
